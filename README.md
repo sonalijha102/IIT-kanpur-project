@@ -3,18 +3,18 @@
 
 <b>Discipline | <b>Fill your discipline name here
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Chemistry lab
+<b> Experiment|     <b> Adsorption of acetic acid by Charcoal 
 
 ### About the Experiment 
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b>Sonali jha
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute |IIT-Kanpur Virtual Lab <b>  
+<b> Email id|  sonalijha600@gmail.com   <b>  
+
 
 ### Contributors List
 
